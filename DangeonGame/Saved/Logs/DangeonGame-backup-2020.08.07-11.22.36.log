@@ -1,0 +1,1648 @@
+﻿Log file open, 08/03/20 11:15:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DangeonGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2080873470) SRandInit(2080873470).
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261072
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.08.03-02.15.24:532][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.03-02.15.24:532][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.03-02.15.24:552][  0]LogInit: Computer: GAME2001
+[2020.08.03-02.15.24:552][  0]LogInit: User: s182242
+[2020.08.03-02.15.24:552][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.08.03-02.15.24:552][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.03-02.15.24:553][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.08.03-02.15.24:553][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.03-02.15.24:553][  0]LogMemory: Process Physical Memory: 280.62 MB used, 280.63 MB peak
+[2020.08.03-02.15.24:553][  0]LogMemory: Process Virtual Memory: 280.55 MB used, 280.55 MB peak
+[2020.08.03-02.15.24:553][  0]LogMemory: Physical Memory: 3793.84 MB used,  12435.59 MB free, 16229.43 MB total
+[2020.08.03-02.15.24:553][  0]LogMemory: Virtual Memory: 4799.14 MB used,  12435.59 MB free, 134217728.00 MB total
+[2020.08.03-02.15.25:053][  0]LogInit: Using OS detected language (ja-JP).
+[2020.08.03-02.15.25:053][  0]LogInit: Using OS detected locale (ja-JP).
+[2020.08.03-02.15.25:075][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2020.08.03-02.15.26:630][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.03-02.15.26:784][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 with Max-Q Design' (Feature Level 11_0)
+[2020.08.03-02.15.26:784][  0]LogD3D11RHI:       3962/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.08.03-02.15.26:807][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.08.03-02.15.26:807][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.03-02.15.26:810][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.03-02.15.26:810][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.03-02.15.26:810][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.03-02.15.26:835][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.03-02.15.26:835][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.03-02.15.26:835][  0]LogWindows: EnumDisplayDevices:
+[2020.08.03-02.15.26:835][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.08.03-02.15.26:836][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.08.03-02.15.26:836][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.08.03-02.15.26:836][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.03-02.15.26:836][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 with Max-Q Design
+[2020.08.03-02.15.26:836][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.03-02.15.26:836][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.03-02.15.26:836][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2020.08.03-02.15.26:897][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.03-02.15.26:914][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.08.03-02.15.26:915][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Intermediate/Shaders/WorkingDirectory/12756/).
+[2020.08.03-02.15.26:915][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s182242/AppData/Local/Temp/UnrealShaderWorkingDir/D9AADD0F48569A1C92531685336D23F7/'.
+[2020.08.03-02.15.26:915][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.03-02.15.28:153][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.08.03-02.15.28:249][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.08.03-02.15.28:342][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.08.03-02.15.28:438][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.08.03-02.15.28:533][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.08.03-02.15.28:627][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.08.03-02.15.28:720][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.08.03-02.15.28:814][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.08.03-02.15.28:900][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.08.03-02.15.28:995][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.08.03-02.15.29:086][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.08.03-02.15.29:177][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.08.03-02.15.29:268][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.08.03-02.15.29:360][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.08.03-02.15.29:454][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.08.03-02.15.29:647][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.08.03-02.15.29:647][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.08.03-02.15.29:731][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.08.03-02.15.29:898][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.08.03-02.15.29:944][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.08.03-02.15.30:040][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.08.03-02.15.30:133][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.08.03-02.15.30:223][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.08.03-02.15.30:315][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.08.03-02.15.30:315][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.03-02.15.31:318][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.03-02.15.31:379][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/s182242/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2020.08.03-02.15.31:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s182242/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2020.08.03-02.15.31:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.03-02.15.31:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.03-02.15.31:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.03-02.15.31:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.03-02.15.31:393][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.03-02.15.31:408][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s182242/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.03-02.15.31:416][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.03-02.15.31:416][  0]LogSlate: Using Freetype 2.6.0
+[2020.08.03-02.15.31:420][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.03-02.15.31:421][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.03-02.15.32:857][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2020.08.03-02.15.33:002][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.03-02.15.33:235][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2020.08.03-02.15.33:747][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.08.03-02.15.33:837][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.08.03-02.15.33:837][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.03-02.15.33:837][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.08.03-02.15.33:837][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.08.03-02.15.33:837][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.08.03-02.15.34:307][  0]LogNetVersion: DangeonGame , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 475587487)
+[2020.08.03-02.15.34:662][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.080296 seconds
+[2020.08.03-02.15.34:667][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2020.08.03-02.15.34:667][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2020.08.03-02.15.34:667][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.03-02.15.34:763][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2020.08.03-02.15.40:372][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.03-02.15.40:426][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.03-02.15.41:637][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2020.08.03-02.15.42:382][  0]SourceControl: ソースコントロールは無効です
+[2020.08.03-02.15.42:382][  0]SourceControl: ソースコントロールは無効です
+[2020.08.03-02.15.42:481][  0]SourceControl: ソースコントロールは無効です
+[2020.08.03-02.15.42:582][  0]SourceControl: ソースコントロールは無効です
+[2020.08.03-02.15.43:739][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.03-02.15.44:210][  0]LogOcInput: OculusInput pre-init called
+[2020.08.03-02.15.44:671][  0]LogEngine: Initializing Engine...
+[2020.08.03-02.15.44:674][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.03-02.15.44:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.08.03-02.15.44:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.08.03-02.15.45:210][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.03-02.15.45:298][  0]LogInit: XAudio2 using 'スピーカー (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.08.03-02.15.45:627][  0]LogInit: FAudioDevice initialized.
+[2020.08.03-02.15.45:679][  0]LogDerivedDataCache: Saved boot cache 0.05s 93MB C:/Users/s182242/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2020.08.03-02.15.45:689][  0]LogInit: Texture streaming: Enabled
+[2020.08.03-02.15.45:869][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.03-02.15.46:331][  0]LogInit: Transaction tracking system initialized
+[2020.08.03-02.15.46:962][  0]BlueprintLog: New page: エディタの読み込み
+[2020.08.03-02.15.48:752][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2020.08.03-02.15.50:156][  0]LogConsoleResponse: Display: 
+[2020.08.03-02.15.50:406][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.03-02.15.50:406][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.03-02.15.50:406][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.08.03-02.15.50:883][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Content/' took 0.01s
+[2020.08.03-02.15.52:447][  0]SourceControl: ソースコントロールは無効です
+[2020.08.03-02.15.52:447][  0]Cmd: MAP LOAD FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.03-02.15.52:447][  0]LightingResults: New page: ライティングのビルド
+[2020.08.03-02.15.52:536][  0]MapCheck: New page: マップをチェック
+[2020.08.03-02.15.52:536][  0]LightingResults: New page: <何も選択されていません>
+[2020.08.03-02.15.52:706][  0]LogAIModule: Creating AISystem for world Main
+[2020.08.03-02.15.52:711][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.03-02.15.52:724][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.03-02.15.52:895][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 170.758ミリ秒かかりました。
+[2020.08.03-02.15.52:895][  0]LogFileHelpers: Loading map 'Main' took 0.448
+[2020.08.03-02.15.53:110][  0]LogCollectionManager: Loaded 0 collections in 0.001513 seconds
+[2020.08.03-02.15.53:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Collections/' took 0.01s
+[2020.08.03-02.15.53:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Developers/s182242/Collections/' took 0.01s
+[2020.08.03-02.15.53:246][  0]LogFileCache: Scanning file cache for directory 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Collections/' took 0.01s
+[2020.08.03-02.15.53:246][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.08.03-02.15.53:253][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2386 classes and 500 folders.
+[2020.08.03-02.15.53:379][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.08.03-02.15.53:576][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.08.03-02.15.53:670][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.08.03-02.15.53:698][  0]LogSlate: Took 0.000483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.03-02.15.53:702][  0]LogSlate: Took 0.002935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.08.03-02.15.53:703][  0]LogSlate: Took 0.000578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.03-02.15.53:709][  0]LogSlate: Took 0.003128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.03-02.15.53:810][  0]LogRenderer: Reallocating scene render targets to support 788x436 Format 10 NumSamples 1 (Frame:1).
+[2020.08.03-02.15.54:054][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.08.03-02.15.54:055][  0]LogLoad: (Engine Initialization) Total time: 33.12 seconds
+[2020.08.03-02.15.54:055][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.03-02.15.54:055][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2020.08.03-02.15.54:464][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.03-02.15.54:749][  1]LogAssetRegistry: Asset discovery search completed in 21.9134 seconds
+[2020.08.03-02.15.54:752][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.08.03-02.15.54:752][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000097 seconds (updated 0 objects)
+[2020.08.03-02.15.55:424][  3]LogSlate: Took 0.017751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.03-02.15.58:764][ 13]LogSlate: Took 0.001159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.03-02.24.20:059][517]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.20:119][517]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2020.08.03-02.24.20:210][517]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2020.08.03-02.24.20:213][517]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.20:329][517]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.20:341][517]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.20:387][517]LogSlate: Took 0.002643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.03-02.24.21:598][568]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.24.21:598][568]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.24.21:598][568]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.24.36:843][376]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.37:375][408]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.24.37:375][408]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.24.37:375][408]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.24.37:594][421]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.38:127][453]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.24.38:127][453]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.24.38:127][453]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.24.38:397][469]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.38:912][500]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.24.38:912][500]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.24.38:912][500]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.24.39:530][537]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.40:061][569]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.24.40:061][569]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.24.40:061][569]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.24.40:497][595]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.24.41:012][626]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.24.41:012][626]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.24.41:012][626]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.26.34:214][407]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.26.35:128][460]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.26.35:128][460]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.26.35:128][460]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.27.23:057][330]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.27.23:984][384]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.27.23:984][384]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.27.23:984][384]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.28.21:738][849]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.28.23:587][960]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.28.23:587][960]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.28.23:587][960]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.28.28:073][229]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.28.28:591][260]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.28.28:591][260]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.28.28:591][260]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.28.33:695][566]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.28.34:260][600]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.28.34:260][600]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.28.34:260][600]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.28.34:579][619]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.28.35:094][650]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.28.35:094][650]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.28.35:094][650]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.28.47:489][393]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.28.48:045][425]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.28.48:045][425]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.28.48:045][425]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.38.34:589][616]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.38.35:527][671]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.38.35:527][671]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.38.35:527][671]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.38.36:939][755]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.38.37:461][785]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.38.37:461][785]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.38.37:461][785]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.38.39:155][886]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.38.39:165][886]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.38.39:740][919]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.38.39:740][919]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.38.39:740][919]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.38.41:418][ 19]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.38.41:427][ 19]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.08.03-02.38.41:979][ 51]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.38.41:979][ 51]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.38.41:979][ 51]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.41.50:871][384]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.41.50:887][384]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.41.51:818][439]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.41.51:818][439]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.41.51:818][439]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.42.10:941][586]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.42.10:955][586]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.42.12:209][660]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.42.12:228][660]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.42.12:792][693]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.42.12:792][693]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.42.12:792][693]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.42.41:751][355]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2020.08.03-02.43.12:410][187]LogMaterialEditor: Applying material M_brick
+[2020.08.03-02.43.12:907][187]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.43.12:951][187]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.43.12:978][187]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.43.13:029][187]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-02.43.13:653][187]TextureStreamingBuild: Display: Compiling optional shaders took 0.638 seconds.
+[2020.08.03-02.43.15:028][269]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.43.15:028][269]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.43.15:028][269]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.03-02.43.41:236][839]LogMaterial: Missing cached shader map for material TutorialMaterial, compiling. 
+[2020.08.03-02.43.41:250][839]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.08.03-02.43.41:322][839]LogMaterial: Missing cached shader map for material TutorialMaterial, compiling. 
+[2020.08.03-02.43.41:333][839]LogMaterial: Missing cached shader map for material TutorialMaterial, compiling. 
+[2020.08.03-02.43.42:220][856]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.43.42:220][856]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.43.42:220][856]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.43.44:736][  7]LogUObjectGlobals: Warning: オブジェクト 'Object なし.MaterialEditor_MaterialProperties' が見つかりませんでした
+[2020.08.03-02.43.45:220][ 36]LogUObjectGlobals: Warning: オブジェクト 'Object なし.GraphEditorPanel' が見つかりませんでした
+[2020.08.03-02.43.45:721][ 66]LogUObjectGlobals: Warning: オブジェクト 'Object なし.GraphEditorPanel' が見つかりませんでした
+[2020.08.03-02.43.46:170][ 93]LogUObjectGlobals: Warning: オブジェクト 'Object なし.MaterialPalette' が見つかりませんでした
+[2020.08.03-02.43.47:288][160]LogUObjectGlobals: Warning: オブジェクト 'Object なし.GraphEditorPanel' が見つかりませんでした
+[2020.08.03-02.44.39:075][161]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.44.39:093][161]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.44.40:026][215]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.44.40:026][215]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.44.40:026][215]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.44.41:246][289]LogHttp: Warning: 0000025388E57280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-02.44.41:246][289]LogHttp: Warning: 0000025388E57280: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2020.08.03-02.44.41:246][289]LogHttp: Warning: 0000025388E57280: libcurl info message cache 1 (Closing connection 4)
+[2020.08.03-02.44.41:246][289]LogHttp: Warning: 0000025388E57280: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-02.44.41:246][289]LogHttp: Warning: 0000025388E57280: libcurl info message cache 3 (Closing connection 5)
+[2020.08.03-02.44.47:184][644]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.44.47:209][644]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.44.47:759][676]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.44.47:759][676]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.44.47:759][676]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.44.50:245][825]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.44.50:258][825]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.44.50:807][857]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.44.50:807][857]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.44.50:807][857]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.45.47:280][241]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.45.47:292][241]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.45.48:248][297]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.45.48:248][297]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.45.48:248][297]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.45.49:134][350]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.45.49:148][350]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.45.49:704][382]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.45.49:704][382]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.45.49:704][382]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.46.32:390][941]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.46.32:410][941]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.46.33:345][996]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.46.33:345][996]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.46.33:345][996]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.46.41:267][472]LogHttp: Warning: 0000025388D82B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-02.46.41:267][472]LogHttp: Warning: 0000025388D82B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-02.46.41:267][472]LogHttp: Warning: 0000025388D82B00: libcurl info message cache 1 (Closing connection 6)
+[2020.08.03-02.47.04:315][852]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.47.04:331][852]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.47.05:265][907]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.47.05:265][907]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.47.05:265][907]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.48.02:071][312]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.014
+[2020.08.03-02.48.02:074][312]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_brick] ([1] browsable assets)...
+[2020.08.03-02.48.02:084][312]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_brick.M_brick]
+[2020.08.03-02.48.02:084][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_brick]
+[2020.08.03-02.48.02:084][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-02.48.02:140][312]LogSavePackage: Save=36.24ms
+[2020.08.03-02.48.02:140][312]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick_Auto1096465E34DF1D9A573929CB269B2DE31.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto1.uasset'
+[2020.08.03-02.48.02:145][312]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto1.uasset
+[2020.08.03-02.48.02:149][312]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/plane] ([1] browsable assets)...
+[2020.08.03-02.48.02:167][312]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/plane.plane]
+[2020.08.03-02.48.02:167][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/plane]
+[2020.08.03-02.48.02:167][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/plane" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Mesh/plane_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-02.48.02:229][312]LogSavePackage: Save=29.90ms
+[2020.08.03-02.48.02:229][312]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/plane_Auto194FB28FD4C72D1382DCE53BC986C6148.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Mesh/plane_Auto1.uasset'
+[2020.08.03-02.48.02:233][312]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Mesh/plane_Auto1.uasset
+[2020.08.03-02.48.02:233][312]LogFileHelpers: Auto-saving content packages took 0.161
+[2020.08.03-02.48.41:318][658]LogHttp: Warning: 0000025389627100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-02.48.41:318][658]LogHttp: Warning: 0000025389627100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-02.48.41:318][658]LogHttp: Warning: 0000025389627100: libcurl info message cache 1 (Closing connection 7)
+[2020.08.03-02.49.30:461][604]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.49.30:477][604]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.49.31:215][647]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.49.31:238][647]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.49.31:865][683]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.49.31:865][683]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.49.31:865][683]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.49.34:067][815]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.49.34:084][815]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.49.34:659][848]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.49.34:659][848]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.49.34:659][848]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.50.21:946][682]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.50.21:960][682]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.08.03-02.50.27:428][  9]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.50.27:446][  9]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.08.03-02.50.28:017][ 41]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.50.28:017][ 41]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.50.28:017][ 41]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.50.36:403][543]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.50.36:417][543]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.08.03-02.50.37:029][578]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.50.37:029][578]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.50.37:029][578]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.50.39:282][713]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.50.39:295][713]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.08.03-02.50.39:849][745]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.50.39:849][745]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.50.39:849][745]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.50.46:922][168]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.50.46:940][168]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.08.03-02.50.47:489][200]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.50.47:489][200]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.50.47:489][200]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: request failed, libcurl error: 35 (SSL connect error)
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 0 (  Trying 52.2.163.36...)
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (52.2.163.36) port 443 (#8))
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 4 (SSL re-using session ID)
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2020.08.03-02.52.00:640][589]LogHttp: Warning: 0000025389615600: libcurl info message cache 8 (Closing connection 8)
+[2020.08.03-02.52.01:402][635]LogHttp: Warning: 000002538959C400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-02.52.01:402][635]LogHttp: Warning: 000002538959C400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2532bc07bb0 [serially])
+[2020.08.03-02.52.01:402][635]LogHttp: Warning: 000002538959C400: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2020.08.03-02.52.01:402][635]LogHttp: Warning: 000002538959C400: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-02.52.01:402][635]LogHttp: Warning: 000002538959C400: libcurl info message cache 3 (Closing connection 9)
+[2020.08.03-02.53.20:420][374]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.53.21:339][428]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-02.53.21:339][428]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.53.21:339][428]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.53.36:146][315]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.53.36:678][347]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.53.36:678][347]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.53.36:678][347]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.53.45:066][850]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.53.45:596][882]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.53.45:596][882]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.53.45:597][882]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.54.08:443][253]LogHttp: Warning: 00000253894C3700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-02.54.08:443][253]LogHttp: Warning: 00000253894C3700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-02.54.08:443][253]LogHttp: Warning: 00000253894C3700: libcurl info message cache 1 (Closing connection 10)
+[2020.08.03-02.56.08:469][453]LogHttp: Warning: 0000025389627100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-02.56.08:469][453]LogHttp: Warning: 0000025389627100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-02.56.08:469][453]LogHttp: Warning: 0000025389627100: libcurl info message cache 1 (Closing connection 11)
+[2020.08.03-02.56.54:704][226]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.56.54:719][226]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-02.56.55:647][281]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.56.55:647][281]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.56.55:647][281]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.57.43:179][131]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.57.44:733][224]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.57.45:264][256]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.57.45:264][256]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.57.45:264][256]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.57.50:985][599]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.57.51:524][631]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-02.57.51:524][631]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.57.51:524][631]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.57.53:640][758]LogMaterialEditor: Applying material M_brick
+[2020.08.03-02.57.54:164][758]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.57.54:208][758]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.57.54:238][758]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.57.54:283][758]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-02.57.54:588][758]TextureStreamingBuild: Display: Compiling optional shaders took 0.313 seconds.
+[2020.08.03-02.57.55:965][840]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-02.57.55:965][840]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.57.55:965][840]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.03-02.58.08:506][555]LogHttp: Warning: 0000025374136B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-02.58.08:506][555]LogHttp: Warning: 0000025374136B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-02.58.08:506][555]LogHttp: Warning: 0000025374136B00: libcurl info message cache 1 (Closing connection 12)
+[2020.08.03-02.58.10:187][655]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.58.10:717][687]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-02.58.10:717][687]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.58.10:717][687]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.58.13:020][825]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.58.13:556][857]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-02.58.13:557][857]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.58.13:557][857]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.58.14:007][884]LogMaterialEditor: Applying material M_brick
+[2020.08.03-02.58.14:503][884]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.58.14:597][884]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.58.14:634][884]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.58.14:671][884]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-02.58.14:944][884]TextureStreamingBuild: Display: Compiling optional shaders took 0.279 seconds.
+[2020.08.03-02.58.16:268][963]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-02.58.16:268][963]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.58.16:268][963]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.03-02.59.22:528][938]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.59.24:163][ 36]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.59.24:694][ 68]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.59.24:694][ 68]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.59.24:694][ 68]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.59.32:698][548]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.59.33:213][579]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.59.33:213][579]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.59.33:213][579]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-02.59.37:175][816]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-02.59.37:692][847]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-02.59.37:692][847]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-02.59.37:692][847]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.00.02:479][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.010
+[2020.08.03-03.00.02:482][331]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_brick] ([1] browsable assets)...
+[2020.08.03-03.00.02:493][331]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_brick.M_brick]
+[2020.08.03-03.00.02:493][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_brick]
+[2020.08.03-03.00.02:493][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-03.00.02:515][331]LogSavePackage: Save=12.63ms
+[2020.08.03-03.00.02:515][331]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick_Auto2206859BC4DBB7F3C0EC8C98AFC695152.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto2.uasset'
+[2020.08.03-03.00.02:525][331]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto2.uasset
+[2020.08.03-03.00.02:525][331]LogFileHelpers: Auto-saving content packages took 0.045
+[2020.08.03-03.00.08:524][692]LogHttp: Warning: 0000025389616680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.00.08:524][692]LogHttp: Warning: 0000025389616680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.00.08:524][692]LogHttp: Warning: 0000025389616680: libcurl info message cache 1 (Closing connection 13)
+[2020.08.03-03.00.42:854][748]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.00.46:325][955]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-03.00.46:325][955]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.00.46:325][955]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.01.05:665][114]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.01.06:575][167]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-03.01.06:575][167]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.01.06:575][167]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.02.08:569][887]LogHttp: Warning: 000002538959D300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.02.08:569][887]LogHttp: Warning: 000002538959D300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.02.08:569][887]LogHttp: Warning: 000002538959D300: libcurl info message cache 1 (Closing connection 14)
+[2020.08.03-03.04.08:590][ 86]LogHttp: Warning: 000002538959CE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.04.08:590][ 86]LogHttp: Warning: 000002538959CE80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.04.08:590][ 86]LogHttp: Warning: 000002538959CE80: libcurl info message cache 1 (Closing connection 15)
+[2020.08.03-03.06.19:674][950]LogHttp: Warning: 000002538959E980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.06.19:674][950]LogHttp: Warning: 000002538959E980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.06.19:674][950]LogHttp: Warning: 000002538959E980: libcurl info message cache 1 (Closing connection 16)
+[2020.08.03-03.08.19:724][151]LogHttp: Warning: 000002538959FE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.08.19:724][151]LogHttp: Warning: 000002538959FE80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.08.19:724][151]LogHttp: Warning: 000002538959FE80: libcurl info message cache 1 (Closing connection 17)
+[2020.08.03-03.10.19:787][351]LogHttp: Warning: 000002538959E980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.10.19:787][351]LogHttp: Warning: 000002538959E980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.10.19:787][351]LogHttp: Warning: 000002538959E980: libcurl info message cache 1 (Closing connection 18)
+[2020.08.03-03.12.19:823][553]LogHttp: Warning: 000002538959E980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.12.19:823][553]LogHttp: Warning: 000002538959E980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.12.19:823][553]LogHttp: Warning: 000002538959E980: libcurl info message cache 1 (Closing connection 19)
+[2020.08.03-03.14.19:851][754]LogHttp: Warning: 000002538959D300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.14.19:851][754]LogHttp: Warning: 000002538959D300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.14.19:851][754]LogHttp: Warning: 000002538959D300: libcurl info message cache 1 (Closing connection 20)
+[2020.08.03-03.16.19:893][955]LogHttp: Warning: 000002538959CB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.16.19:893][955]LogHttp: Warning: 000002538959CB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.16.19:893][955]LogHttp: Warning: 000002538959CB80: libcurl info message cache 1 (Closing connection 21)
+[2020.08.03-03.17.26:846][968]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.17.27:939][ 32]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-03.17.27:939][ 32]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.17.27:939][ 32]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.17.34:997][455]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.17.35:548][486]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.08.03-03.17.35:548][486]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.17.35:548][486]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.17.37:701][615]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.17.38:233][647]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-03.17.38:233][647]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.17.38:233][647]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.17.39:766][739]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.17.40:275][739]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.17.40:314][739]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.17.40:338][739]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.17.40:381][739]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.17.40:654][739]TextureStreamingBuild: Display: Compiling optional shaders took 0.282 seconds.
+[2020.08.03-03.17.42:045][822]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-03.17.42:045][822]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.17.42:045][822]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.03-03.18.00:233][913]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.18.00:791][942]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-03.18.00:791][942]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.18.00:791][942]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.18.02:344][ 35]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.18.02:363][ 35]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-03.18.02:929][ 68]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-03.18.02:929][ 68]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.18.02:929][ 68]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.18.03:331][ 92]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.18.03:345][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.08.03-03.18.03:916][125]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-03.18.03:916][125]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.18.03:916][125]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.18.05:265][206]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.18.05:754][206]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.18.05:797][206]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.18.05:827][206]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.18.05:866][206]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.18.06:138][206]TextureStreamingBuild: Display: Compiling optional shaders took 0.279 seconds.
+[2020.08.03-03.18.07:462][285]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-03.18.07:462][285]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.18.07:462][285]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.03-03.18.19:932][ 34]LogHttp: Warning: 0000025373DEE500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.18.19:932][ 34]LogHttp: Warning: 0000025373DEE500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.18.19:932][ 34]LogHttp: Warning: 0000025373DEE500: libcurl info message cache 1 (Closing connection 22)
+[2020.08.03-03.18.53:824][ 65]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.010
+[2020.08.03-03.18.53:827][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_brick] ([1] browsable assets)...
+[2020.08.03-03.18.53:838][ 65]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_brick.M_brick]
+[2020.08.03-03.18.53:838][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_brick]
+[2020.08.03-03.18.53:838][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-03.18.53:861][ 65]LogSavePackage: Save=13.18ms
+[2020.08.03-03.18.53:861][ 65]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick_Auto352A3DF894B031FA6C0B751824E580526.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto3.uasset'
+[2020.08.03-03.18.53:864][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto3.uasset
+[2020.08.03-03.18.53:864][ 65]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.08.03-03.20.19:977][230]LogHttp: Warning: 000002537460DA80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.20.19:977][230]LogHttp: Warning: 000002537460DA80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.20.19:977][230]LogHttp: Warning: 000002537460DA80: libcurl info message cache 1 (Closing connection 23)
+[2020.08.03-03.21.06:843][ 27]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.21.07:773][ 79]MaterialEditorStats: Base pass shader: 84 instructions
+[2020.08.03-03.21.07:773][ 79]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.21.07:773][ 79]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.21.42:970][190]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.21.43:911][243]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.21.43:911][243]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.21.43:911][243]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.22.12:213][889]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.22.12:224][889]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.03-03.22.13:122][942]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.22.13:122][942]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.22.13:122][942]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.22.20:009][356]LogHttp: Warning: 0000025389614D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.22.20:009][356]LogHttp: Warning: 0000025389614D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.22.20:009][356]LogHttp: Warning: 0000025389614D00: libcurl info message cache 1 (Closing connection 24)
+[2020.08.03-03.22.30:508][980]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.22.30:522][980]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.03-03.22.31:099][ 12]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.22.31:099][ 12]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.22.31:099][ 12]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.22.48:954][ 82]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.22.48:967][ 82]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.08.03-03.22.49:505][113]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.22.49:505][113]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.22.49:505][113]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.22.50:232][156]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.22.50:242][156]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.03-03.22.50:761][186]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.22.50:761][186]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.22.50:761][186]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.23.01:163][806]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.23.01:176][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.03-03.23.01:745][839]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.23.01:745][839]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.23.01:745][839]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.23.09:297][292]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.23.09:309][292]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.08.03-03.23.09:808][321]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.23.09:808][321]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.23.09:808][321]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.24.09:686][905]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.24.10:819][971]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.24.10:819][971]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.24.10:819][971]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.24.13:655][138]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.24.13:665][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.24.13:695][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.03-03.24.13:702][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.24.13:726][138]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.24.13:747][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.08.03-03.24.13:786][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.03-03.24.13:793][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.24.13:802][138]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.08.03-03.24.14:674][186]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-03.24.14:674][186]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-03.24.14:674][186]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-03.24.20:048][506]LogHttp: Warning: 000002531E7DF580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.24.20:048][506]LogHttp: Warning: 000002531E7DF580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.24.20:048][506]LogHttp: Warning: 000002531E7DF580: libcurl info message cache 1 (Closing connection 25)
+[2020.08.03-03.25.18:200][986]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.08.03-03.26.31:139][350]LogHttp: Warning: 00000253A3679480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.26.31:139][350]LogHttp: Warning: 00000253A3679480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.26.31:139][350]LogHttp: Warning: 00000253A3679480: libcurl info message cache 1 (Closing connection 26)
+[2020.08.03-03.26.43:890][114]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.26.43:903][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.08.03-03.26.44:882][172]MaterialEditorStats: Base pass shader: 81 instructions
+[2020.08.03-03.26.44:882][172]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.26.44:882][172]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.03-03.26.44:882][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.26.57:938][954]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.26.57:952][954]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.08.03-03.26.58:549][989]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.26.58:549][989]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.26.58:549][989]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.26.58:549][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.27.28:185][767]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.27.28:673][767]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.27.28:712][767]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.27.28:731][767]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.27.28:772][767]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.27.29:491][767]TextureStreamingBuild: Display: Compiling optional shaders took 0.727 seconds.
+[2020.08.03-03.27.30:828][847]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.27.30:828][847]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.27.30:828][847]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.27.30:828][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.28.31:181][468]LogHttp: Warning: 000002538C5D3280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.28.31:181][468]LogHttp: Warning: 000002538C5D3280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.28.31:181][468]LogHttp: Warning: 000002538C5D3280: libcurl info message cache 1 (Closing connection 27)
+[2020.08.03-03.29.00:173][205]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.010
+[2020.08.03-03.29.00:176][205]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_brick] ([1] browsable assets)...
+[2020.08.03-03.29.00:187][205]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_brick.M_brick]
+[2020.08.03-03.29.00:187][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_brick]
+[2020.08.03-03.29.00:187][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-03.29.00:211][205]LogSavePackage: Save=14.30ms
+[2020.08.03-03.29.00:211][205]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick_Auto49270BCC74FBEFAF61C54DA8B57B645C8.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto4.uasset'
+[2020.08.03-03.29.00:213][205]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto4.uasset
+[2020.08.03-03.29.00:213][205]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.08.03-03.30.31:215][650]LogHttp: Warning: 00000253911D5180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.30.31:215][650]LogHttp: Warning: 00000253911D5180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.30.31:216][650]LogHttp: Warning: 00000253911D5180: libcurl info message cache 1 (Closing connection 28)
+[2020.08.03-03.30.51:656][875]LogActorFactory: Actor Factory created plane
+[2020.08.03-03.30.53:734][  0]LogActorFactory: Actor Factory created plane
+[2020.08.03-03.31.10:286][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.03-03.31.16:858][371]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.03-03.31.17:792][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.03-03.31.25:724][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.03-03.31.30:557][182]Cmd: TRANSACTION UNDO
+[2020.08.03-03.31.30:557][182]LogEditorTransaction: Undo アクタをクリック
+[2020.08.03-03.31.30:612][182]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.31.33:156][183]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.31.33:156][183]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.31.33:156][183]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.31.33:156][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.31.36:960][407]Cmd: TRANSACTION UNDO
+[2020.08.03-03.31.36:960][407]LogEditorTransaction: Undo アクタをクリック
+[2020.08.03-03.31.37:008][407]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.31.41:166][407]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.03-03.31.41:355][408]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.31.41:355][408]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.31.41:355][408]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.31.41:355][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.31.43:788][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.03-03.31.53:910][140]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.08.03-03.31.55:458][216]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.03-03.32.06:021][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane)
+[2020.08.03-03.32.06:803][873]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.03-03.32.19:992][596]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.32.21:083][660]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.32.21:084][660]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.32.21:084][660]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.32.21:084][660]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.32.22:535][747]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.32.23:183][786]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.32.23:183][786]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.32.23:183][786]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.32.23:183][786]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.32.26:950][ 12]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.32.27:440][ 12]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.32.27:484][ 12]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.32.27:522][ 12]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.32.27:570][ 12]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.32.27:975][ 12]TextureStreamingBuild: Display: Compiling optional shaders took 0.413 seconds.
+[2020.08.03-03.32.29:453][100]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.32.29:453][100]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.32.29:453][100]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.32.29:453][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.32.43:242][928]LogHttp: Warning: 00000253BB563D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.32.43:242][928]LogHttp: Warning: 00000253BB563D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.32.43:242][928]LogHttp: Warning: 00000253BB563D00: libcurl info message cache 1 (Closing connection 29)
+[2020.08.03-03.34.37:555][785]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.34.37:569][785]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.34.38:695][850]MaterialEditorStats: Base pass shader: 89 instructions
+[2020.08.03-03.34.38:696][850]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.34.38:696][850]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.34.38:696][850]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.34.41:129][996]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.34.41:647][996]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.34.41:691][996]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.34.41:724][996]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.34.41:787][996]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.34.42:223][996]TextureStreamingBuild: Display: Compiling optional shaders took 0.447 seconds.
+[2020.08.03-03.34.43:302][ 61]LogHttp: Warning: 0000025322619300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.34.43:302][ 61]LogHttp: Warning: 0000025322619300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.34.43:302][ 61]LogHttp: Warning: 0000025322619300: libcurl info message cache 1 (Closing connection 30)
+[2020.08.03-03.34.43:648][ 81]MaterialEditorStats: Base pass shader: 89 instructions
+[2020.08.03-03.34.43:648][ 81]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.34.43:648][ 81]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.03-03.34.43:648][ 81]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.35.18:533][169]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.19:632][235]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.35.19:632][235]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.35.19:632][235]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.35.19:632][235]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.35.19:798][245]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.35.20:287][245]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.20:356][245]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.20:387][245]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.20:434][245]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.35.20:851][245]TextureStreamingBuild: Display: Compiling optional shaders took 0.426 seconds.
+[2020.08.03-03.35.22:342][334]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.35.22:342][334]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.35.22:342][334]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.35.22:342][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.35.31:478][882]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.32:127][921]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.35.32:127][921]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.35.32:127][921]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.35.32:127][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.35.33:009][974]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.35.33:508][974]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.33:552][974]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.33:585][974]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.33:635][974]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.35.34:051][974]TextureStreamingBuild: Display: Compiling optional shaders took 0.425 seconds.
+[2020.08.03-03.35.35:528][ 62]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.35.35:528][ 62]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.35.35:528][ 62]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.35.35:528][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.35.39:029][272]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.39:660][310]MaterialEditorStats: Base pass shader: 87 instructions
+[2020.08.03-03.35.39:660][310]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.35.39:660][310]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-03.35.39:660][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.35.44:513][601]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.44:527][601]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.35.45:230][642]MaterialEditorStats: Base pass shader: 89 instructions
+[2020.08.03-03.35.45:230][642]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.35.45:230][642]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.35.45:230][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.35.46:114][695]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.35.46:630][695]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.46:673][695]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.46:707][695]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.35.46:757][695]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.35.47:184][695]TextureStreamingBuild: Display: Compiling optional shaders took 0.437 seconds.
+[2020.08.03-03.35.48:774][790]MaterialEditorStats: Base pass shader: 89 instructions
+[2020.08.03-03.35.48:774][790]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.35.48:774][790]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.03-03.35.48:774][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.36.10:406][ 87]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.36.10:422][ 87]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.36.11:619][158]MaterialEditorStats: Base pass shader: 94 instructions
+[2020.08.03-03.36.11:619][158]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.36.11:619][158]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.36.11:619][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.36.14:835][351]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.36.15:325][351]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.36.15:370][351]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.36.15:404][351]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.36.15:450][351]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.36.15:898][351]TextureStreamingBuild: Display: Compiling optional shaders took 0.458 seconds.
+[2020.08.03-03.36.17:560][450]MaterialEditorStats: Base pass shader: 94 instructions
+[2020.08.03-03.36.17:560][450]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.36.17:560][450]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.03-03.36.17:560][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.36.47:011][217]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.36.48:109][283]MaterialEditorStats: Base pass shader: 89 instructions
+[2020.08.03-03.36.48:109][283]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.36.48:109][283]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.36.48:109][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.36.53:029][578]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.36.53:047][578]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.36.53:848][624]MaterialEditorStats: Base pass shader: 94 instructions
+[2020.08.03-03.36.53:848][624]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.36.53:848][624]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.36.53:848][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.38.06:337][956]LogHttp: Warning: 000002532261A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.38.06:337][956]LogHttp: Warning: 000002532261A200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2532bc07a30 [serially])
+[2020.08.03-03.38.06:337][956]LogHttp: Warning: 000002532261A200: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2020.08.03-03.38.06:337][956]LogHttp: Warning: 000002532261A200: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.38.06:337][956]LogHttp: Warning: 000002532261A200: libcurl info message cache 3 (Closing connection 32)
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: request failed, libcurl error: 35 (SSL connect error)
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 0 (  Trying 54.174.221.99...)
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (54.174.221.99) port 443 (#31))
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 4 (SSL re-using session ID)
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 6 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2020.08.03-03.38.48:225][449]LogHttp: Warning: 0000025385BD6C80: libcurl info message cache 7 (Closing connection 31)
+[2020.08.03-03.39.32:800][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.03-03.39.32:834][933]LogSavePackage: Save=23.75ms
+[2020.08.03-03.39.32:834][933]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main_Auto5F0A5838641F5FC6E4625DC938EEE34DC.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto5.umap'
+[2020.08.03-03.39.32:836][933]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto5.umap
+[2020.08.03-03.39.32:839][933]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.051
+[2020.08.03-03.39.32:839][933]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2020.08.03-03.39.32:842][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_brick] ([1] browsable assets)...
+[2020.08.03-03.39.32:852][933]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_brick.M_brick]
+[2020.08.03-03.39.32:852][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_brick]
+[2020.08.03-03.39.32:852][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-03.39.32:884][933]LogSavePackage: Save=14.60ms
+[2020.08.03-03.39.32:884][933]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick_Auto5C742EA8C4336400FAEF6DE96241B912A.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto5.uasset'
+[2020.08.03-03.39.32:887][933]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto5.uasset
+[2020.08.03-03.39.32:887][933]LogFileHelpers: Auto-saving content packages took 0.046
+[2020.08.03-03.39.52:982][137]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.03-03.40.48:263][450]LogHttp: Warning: 00000253AD55BD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.40.48:263][450]LogHttp: Warning: 00000253AD55BD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.40.48:263][450]LogHttp: Warning: 00000253AD55BD00: libcurl info message cache 1 (Closing connection 33)
+[2020.08.03-03.42.24:462][206]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.42.24:487][206]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.08.03-03.42.25:615][272]MaterialEditorStats: Base pass shader: 94 instructions
+[2020.08.03-03.42.25:615][272]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.42.25:615][272]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.03-03.42.25:615][272]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.42.26:215][308]LogMaterialEditor: Applying material M_brick
+[2020.08.03-03.42.26:720][308]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.42.26:767][308]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.42.26:806][308]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.42.26:857][308]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.42.27:332][308]TextureStreamingBuild: Display: Compiling optional shaders took 0.486 seconds.
+[2020.08.03-03.42.28:863][399]MaterialEditorStats: Base pass shader: 94 instructions
+[2020.08.03-03.42.28:863][399]MaterialEditorStats: Vertex shader: 31 instructions
+[2020.08.03-03.42.28:863][399]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.03-03.42.28:863][399]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.03-03.42.46:268][428]LogClient: 高解像度スクリーンショットを保存 C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Screenshots/Windows/HighresScreenshot00000.png
+[2020.08.03-03.42.46:280][430]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:202573).
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2532bc07ce8 [can pipeline])
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.23.43.8) port 443 (#34))
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 3 (upload completely sent off: 354 out of 354 bytes)
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 6 (Closing connection 34)
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.08.03-03.44.07:797][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B719E2F43-4F2A-A31F-FD2F-D7871C148F2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=a85729d74eeaeb3d298edba6b6939552%7C4873c9ba91b948aeb324e10d19ee9502%7C80402594-cf78-4fff-bf7e-3274bf9299d4&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2020.08.03-03.44.07:798][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.44.07:798][493]LogHttp: Warning: 00000253A6FD4400: libcurl info message cache 10 (Closing connection 35)
+[2020.08.03-03.46.30:280][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.03-03.46.30:325][ 11]LogSavePackage: Save=23.94ms
+[2020.08.03-03.46.30:325][ 11]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/MainCB969FCC428E6A305E27D3986CA38634.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap'
+[2020.08.03-03.46.30:331][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap
+[2020.08.03-03.46.30:367][ 11]LogFileHelpers: Saving map 'Main' took 0.212
+[2020.08.03-03.47.29:480][458]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.03-03.47.29:480][458]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.03-03.47.29:511][458]LogEditorActor: Deleted 2 Actors (0.032 secs)
+[2020.08.03-03.47.31:917][603]LogEditorViewport: Clicking on Actor (CTRL LMB): SkyLight (SkyLight)
+[2020.08.03-03.47.32:813][655]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2020.08.03-03.47.34:151][734]Cmd: DELETE
+[2020.08.03-03.47.34:151][734]Cmd: ACTOR DELETE
+[2020.08.03-03.47.34:161][734]LogEditorActor: Deleted Actor: SkyLight
+[2020.08.03-03.47.34:161][734]LogEditorActor: Deleted Actor: PostProcessVolume
+[2020.08.03-03.47.34:193][734]LogEditorActor: Deleted 2 Actors (0.033 secs)
+[2020.08.03-03.47.47:096][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.03-03.47.47:129][499]LogSavePackage: Save=17.85ms
+[2020.08.03-03.47.47:129][499]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main513B836949C7A110EA4301BE06EE6D82.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap'
+[2020.08.03-03.47.47:134][499]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap
+[2020.08.03-03.47.47:160][499]LogFileHelpers: Saving map 'Main' took 0.195
+[2020.08.03-03.47.51:645][768]LogActorFactory: Actor Factory created plane
+[2020.08.03-03.47.55:413][994]LogActorFactory: Actor Factory created plane
+[2020.08.03-03.48.37:882][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.03-03.48.37:918][526]LogSavePackage: Save=18.85ms
+[2020.08.03-03.48.37:918][526]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main73D8F79044D08B52B841A18DA72AD544.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap'
+[2020.08.03-03.48.37:924][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap
+[2020.08.03-03.48.37:953][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main_BuiltData" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset" SILENT=true
+[2020.08.03-03.48.37:972][526]LogSavePackage: Save=10.37ms
+[2020.08.03-03.48.37:972][526]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main_BuiltData2D39E9E94017C6F8B423859659F7CA6D.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset'
+[2020.08.03-03.48.37:974][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset
+[2020.08.03-03.48.45:105][953]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.03-03.48.46:974][ 63]LogHttp: Warning: 00000253B0028700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-03.48.46:974][ 63]LogHttp: Warning: 00000253B0028700: libcurl info message cache 0 (Connection 37 seems to be dead!)
+[2020.08.03-03.48.46:974][ 63]LogHttp: Warning: 00000253B0028700: libcurl info message cache 1 (Closing connection 37)
+[2020.08.03-03.48.46:974][ 63]LogHttp: Warning: 00000253B0028700: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-03.48.46:974][ 63]LogHttp: Warning: 00000253B0028700: libcurl info message cache 3 (Closing connection 38)
+[2020.08.03-03.48.50:500][274]Cmd: TRANSACTION UNDO
+[2020.08.03-03.48.50:500][274]LogEditorTransaction: Undo アクタをクリック
+[2020.08.03-03.49.06:037][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane)
+[2020.08.03-03.50.02:473][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane)
+[2020.08.03-03.50.34:909][517]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane3)
+[2020.08.03-03.50.35:813][569]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane2)
+[2020.08.03-03.50.36:571][612]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane)
+[2020.08.03-03.50.37:190][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane4)
+[2020.08.03-03.50.37:878][686]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane5)
+[2020.08.03-03.51.40:224][377]Cmd: ACTOR SELECT OFCLASS CLASS=StaticMeshActor
+[2020.08.03-03.52.05:547][876]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.03-03.52.09:654][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane22)
+[2020.08.03-03.52.10:310][156]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (plane22)
+[2020.08.03-03.52.39:872][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane39)
+[2020.08.03-03.52.41:090][947]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.03-03.54.12:329][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane43)
+[2020.08.03-03.54.20:950][912]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.03-03.54.27:121][278]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane43)
+[2020.08.03-03.54.28:318][348]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane45)
+[2020.08.03-03.54.29:455][415]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane44)
+[2020.08.03-03.54.30:820][495]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane48)
+[2020.08.03-03.54.31:345][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane47)
+[2020.08.03-03.54.32:183][574]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane46)
+[2020.08.03-03.54.46:171][410]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (plane53)
+[2020.08.03-03.54.55:512][961]Cmd: ACTOR MIRROR X=-1
+[2020.08.03-03.55.26:829][834]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2020.08.03-03.55.27:882][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane55)
+[2020.08.03-03.55.31:513][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plane60)
+[2020.08.03-03.55.33:427][218]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane59)
+[2020.08.03-03.55.34:238][264]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane58)
+[2020.08.03-03.55.35:092][313]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane57)
+[2020.08.03-03.55.35:804][353]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane56)
+[2020.08.03-03.55.36:463][390]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane55)
+[2020.08.03-03.55.37:099][426]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane61)
+[2020.08.03-03.55.40:857][646]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere3)
+[2020.08.03-03.55.48:196][ 74]Cmd: ACTOR MIRROR Z=-1
+[2020.08.03-03.55.50:174][193]Cmd: TRANSACTION UNDO
+[2020.08.03-03.55.50:174][193]LogEditorTransaction: Undo アクタを反転中
+[2020.08.03-03.56.01:409][867]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane67)
+[2020.08.03-03.56.02:288][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane66)
+[2020.08.03-03.56.02:958][957]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane65)
+[2020.08.03-03.56.03:578][993]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane64)
+[2020.08.03-03.56.04:183][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane63)
+[2020.08.03-03.56.04:861][ 67]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane62)
+[2020.08.03-03.56.05:565][108]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (plane68)
+[2020.08.03-03.56.07:406][217]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (plane65)
+[2020.08.03-03.56.10:388][385]Cmd: ACTOR MIRROR X=-1
+[2020.08.03-03.56.12:099][486]Cmd: TRANSACTION UNDO
+[2020.08.03-03.56.12:099][486]LogEditorTransaction: Undo アクタを反転中
+[2020.08.03-03.56.12:102][486]LogActorComponent: ~FComponentReregisterContext: (/Game/Map/Main.Main:PersistentLevel.plane65.StaticMeshComponent0) Component already registered.
+[2020.08.03-03.56.13:433][566]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (plane65)
+[2020.08.03-03.56.15:838][706]Cmd: ACTOR MIRROR Y=-1
+[2020.08.03-03.57.58:239][849]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2020.08.03-03.58.20:636][175]LogRenderer: Reallocating scene render targets to support 1536x824 Format 10 NumSamples 1 (Frame:70819).
+[2020.08.03-03.59.03:219][716]MapCheck: New page: マップをチェック
+[2020.08.03-03.59.03:241][716]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.03-03.59.03:242][716]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.03-03.59.03:370][716]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.08.03-03.59.03:385][716]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_67, compiling. 
+[2020.08.03-03.59.03:391][716]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-03.59.03:878][716]TextureStreamingBuild: Display: Compiling optional shaders took 0.535 seconds.
+[2020.08.03-03.59.03:893][716]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2020.08.03-03.59.03:914][716]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2020.08.03-03.59.03:925][716]LightingResults: New page: ライティングのビルド - 2020/08/03 21:59:03
+[2020.08.03-03.59.03:984][716]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.03-03.59.04:037][716]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.03-03.59.04:049][716]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.03-03.59.05:104][716]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.03-03.59.05:105][716]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12756
+[2020.08.03-03.59.13:165][716]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.03-03.59.13:165][716]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.03-03.59.13:165][716]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.03-03.59.13:165][716]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.03-03.59.13:165][716]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.03-03.59.13:165][716]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.03-03.59.13:342][716]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.03-03.59.13:342][716]MapCheck: New page: Main - 2020/08/03 21:59:13
+[2020.08.03-03.59.13:343][716]MapCheck: Error: WorldSettings_1 マップはライティングの再ビルドが必要です 
+[2020.08.03-03.59.13:466][716]MapCheck: マップチェックが完了: 1 エラー、 0 警告、完了に 123.712ミリ秒かかりました。
+[2020.08.03-03.59.13:488][716]LogEditorBuildUtils: Build time 0:10
+[2020.08.03-03.59.13:507][716]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_67, compiling. 
+[2020.08.03-03.59.13:512][716]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_67, compiling. 
+[2020.08.03-03.59.13:593][717]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_brick, compiling. 
+[2020.08.03-03.59.13:599][717]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_brick, compiling. 
+[2020.08.03-03.59.13:663][718]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.08.03-03.59.13:671][718]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.08.03-03.59.16:643][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.03-03.59.16:742][817]Job is a success!
+[2020.08.03-03.59.16:742][817]LogSavePackage: Save=88.73ms
+[2020.08.03-03.59.16:742][817]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main_Auto6DB3C9B564D4ADD6668FBFAA0BBCC39B7.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto6.umap'
+[2020.08.03-03.59.16:744][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto6.umap
+[2020.08.03-03.59.16:747][817]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.116
+[2020.08.03-03.59.16:747][817]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.116
+[2020.08.03-03.59.16:750][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_brick] ([1] browsable assets)...
+[2020.08.03-03.59.16:772][817]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_brick.M_brick]
+[2020.08.03-03.59.16:772][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_brick]
+[2020.08.03-03.59.16:772][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-03.59.16:795][817]LogSavePackage: Save=14.62ms
+[2020.08.03-03.59.16:795][817]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick_Auto68DDD59034BB02247E931888F869ABA85.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto6.uasset'
+[2020.08.03-03.59.16:797][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto6.uasset
+[2020.08.03-03.59.16:797][817]LogFileHelpers: Auto-saving content packages took 0.050
+[2020.08.03-03.59.16:881][818]LogMaterial: Warning: Material /Game/Material/M_brick.M_brick needed to have new flag set bUsedWithStaticLighting !
+[2020.08.03-03.59.16:883][818]LogMaterial: Missing cached shader map for material M_brick, compiling. 
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.08.03-03.59.17:262][818]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.08.03-03.59.17:383][818]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.08.03-03.59.17:383][818]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2020.08.03-03.59.17:383][818]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.08.03-03.59.17:383][818]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2020.08.03-03.59.17:446][818]Lightmass on GAME2001: 2.01 sec total, 132 ms importing, 2 ms setup, 525 ms photons, 1.31 sec processing, 0 ms extra exporting [71/71 mappings]. Threads: 13.9 sec total, 3.67 sec processing.
+[2020.08.03-03.59.17:469][818]LogStaticLightingSystem: Illumination: 13.5 sec (352 ms encoding lightmaps, 115 ms encoding shadowmaps)
+[2020.08.03-03.59.17:469][818]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.08.03-03.59.17:469][818]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.08.03-03.59.18:171][818]DumpUnbuiltLightIteractions
+[2020.08.03-03.59.18:171][818]Lights with unbuilt interactions: 0
+[2020.08.03-03.59.18:171][818]
+[2020.08.03-03.59.18:171][818]Primitives with unbuilt interactions: 0
+[2020.08.03-03.59.18:177][819]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.03-03.59.18:178][819]MapCheck: New page: Main - 2020/08/03 21:59:18
+[2020.08.03-03.59.18:334][819]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 155.817ミリ秒かかりました。
+[2020.08.03-03.59.43:207][669]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/s182242/Desktop/DrAward_Pack/DrAward_Pack/sozai/Mesh/wall_box.fbx)
+[2020.08.03-03.59.43:224][669]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2020.08.03-03.59.43:224][669]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2020.08.03-03.59.43:224][669]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2020.08.03-03.59.43:224][669]LogFbx: ItemName: Geometry, ItemCount : 1
+[2020.08.03-03.59.43:224][669]LogFbx: ItemName: Material, ItemCount : 2
+[2020.08.03-03.59.43:224][669]LogFbx: ItemName: Model, ItemCount : 1
+[2020.08.03-03.59.43:231][669]LogFbx: Loading FBX Scene from ../../../../../../Users/s182242/Desktop/DrAward_Pack/DrAward_Pack/sozai/Mesh/wall_box.fbx
+[2020.08.03-03.59.43:238][669]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.03-03.59.48:650][669]LogFbx: Loading FBX Scene from ../../../../../../Users/s182242/Desktop/DrAward_Pack/DrAward_Pack/sozai/Mesh/wall_box.fbx
+[2020.08.03-03.59.48:655][669]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.03-03.59.48:664][669]LogFbx: Warning: Triangulating static mesh WallBox
+[2020.08.03-03.59.48:667][669]LogStaticMesh: スタティックメッシュ wall_box をビルド中...
+[2020.08.03-03.59.48:669][669]LogStaticMesh: Built static mesh [0.00s] /Game/Mesh/wall_box.wall_box
+[2020.08.03-04.00.43:839][905]LogHttp: Warning: 00000253A78B5C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-04.00.43:839][905]LogHttp: Warning: 00000253A78B5C00: libcurl info message cache 0 (Connection 42 seems to be dead!)
+[2020.08.03-04.00.43:839][905]LogHttp: Warning: 00000253A78B5C00: libcurl info message cache 1 (Closing connection 42)
+[2020.08.03-04.00.43:839][905]LogHttp: Warning: 00000253A78B5C00: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.08.03-04.00.43:839][905]LogHttp: Warning: 00000253A78B5C00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-04.00.43:839][905]LogHttp: Warning: 00000253A78B5C00: libcurl info message cache 4 (Closing connection 43)
+[2020.08.03-04.01.16:651][852]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.16:709][852]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.16:721][852]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.17:794][903]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.17:794][903]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.17:794][903]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-04.01.24:109][246]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.24:718][280]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.24:718][280]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.24:718][280]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-04.01.26:887][410]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.27:518][448]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.27:518][448]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.27:518][448]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-04.01.30:989][656]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.31:608][693]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.31:608][693]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.31:608][693]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-04.01.36:706][998]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.37:317][ 32]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.37:317][ 32]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.37:317][ 32]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-04.01.40:720][236]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.41:335][273]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.41:335][273]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.41:335][273]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-04.01.43:838][423]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.44:449][458]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.44:449][458]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.44:449][458]MaterialEditorStats: Texture samplers: 1/16
+[2020.08.03-04.01.46:666][591]LogMaterialEditor: Applying material M_Roof
+[2020.08.03-04.01.47:158][591]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.47:200][591]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.47:236][591]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-04.01.47:286][591]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Roof, compiling. 
+[2020.08.03-04.01.47:724][591]TextureStreamingBuild: Display: Compiling optional shaders took 0.446 seconds.
+[2020.08.03-04.01.49:210][679]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-04.01.49:210][679]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-04.01.49:210][679]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.03-04.02.23:538][735]LogActorFactory: Actor Factory created wall_box
+[2020.08.03-04.02.24:573][797]LogActorFactory: Actor Factory created wall_box
+[2020.08.03-04.02.55:244][609]LogHttp: Warning: 00000253A78A0280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-04.02.55:244][609]LogHttp: Warning: 00000253A78A0280: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-04.02.55:244][609]LogHttp: Warning: 00000253A78A0280: libcurl info message cache 1 (Closing connection 44)
+[2020.08.03-04.03.12:774][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box3)
+[2020.08.03-04.03.14:281][747]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wall_box4)
+[2020.08.03-04.03.19:732][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box5)
+[2020.08.03-04.03.20:537][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wall_box4)
+[2020.08.03-04.03.21:078][139]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wall_box3)
+[2020.08.03-04.03.27:298][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2020.08.03-04.04.38:474][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box7)
+[2020.08.03-04.04.39:880][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box6)
+[2020.08.03-04.04.41:591][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (wall_box7)
+[2020.08.03-04.04.45:731][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box12)
+[2020.08.03-04.04.55:260][749]LogHttp: Warning: 00000253A8729900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-04.04.55:260][749]LogHttp: Warning: 00000253A8729900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-04.04.55:260][749]LogHttp: Warning: 00000253A8729900: libcurl info message cache 1 (Closing connection 45)
+[2020.08.03-04.04.57:823][902]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.08.03-04.05.11:614][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box12)
+[2020.08.03-04.05.18:172][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box12)
+[2020.08.03-04.05.19:486][181]Cmd: DELETE
+[2020.08.03-04.05.19:486][181]Cmd: ACTOR DELETE
+[2020.08.03-04.05.19:486][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.03-04.05.19:498][181]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.08.03-04.05.43:385][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.03-04.05.43:503][605]LogSavePackage: Save=96.78ms
+[2020.08.03-04.05.43:504][605]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main03D12D994AF063127A2146ABB5E510E9.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap'
+[2020.08.03-04.05.43:509][605]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap
+[2020.08.03-04.05.43:536][605]LogFileHelpers: Saving map 'Main' took 0.277
+[2020.08.03-04.05.43:538][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main_BuiltData" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset" SILENT=true
+[2020.08.03-04.05.43:632][605]LogSavePackage: Save=85.41ms
+[2020.08.03-04.05.43:632][605]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main_BuiltData17671F2443E8FE6306481A933C3CFF9D.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset'
+[2020.08.03-04.05.43:638][605]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset
+[2020.08.03-04.56.14:351][275]LogHttp: Warning: 0000025342979300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.08.03-04.56.14:351][275]LogHttp: Warning: 0000025342979300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.08.03-04.56.14:351][275]LogHttp: Warning: 0000025342979300: libcurl info message cache 1 (Closing connection 46)
+[2020.08.03-04.56.24:060][673]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.011
+[2020.08.03-04.56.24:063][673]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Material/M_brick] ([1] browsable assets)...
+[2020.08.03-04.56.24:063][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_brick]
+[2020.08.03-04.56.24:063][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-04.56.24:080][673]LogSavePackage: Save=5.94ms
+[2020.08.03-04.56.24:080][673]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick_Auto79CFD77DC45D916BDB4DBE795CDEEA483.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto7.uasset'
+[2020.08.03-04.56.24:082][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_brick_Auto7.uasset
+[2020.08.03-04.56.24:083][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mesh/wall_box] ([1] browsable assets)...
+[2020.08.03-04.56.24:093][673]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Mesh/wall_box.wall_box]
+[2020.08.03-04.56.24:093][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mesh/wall_box]
+[2020.08.03-04.56.24:093][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/wall_box" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Mesh/wall_box_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-04.56.24:109][673]LogSavePackage: Save=12.43ms
+[2020.08.03-04.56.24:109][673]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/wall_box_Auto7B4A93CFF41432AFEED0899AD88A29DBF.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Mesh/wall_box_Auto7.uasset'
+[2020.08.03-04.56.24:111][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Mesh/wall_box_Auto7.uasset
+[2020.08.03-04.56.24:113][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_Roof] ([1] browsable assets)...
+[2020.08.03-04.56.24:122][673]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_Roof.M_Roof]
+[2020.08.03-04.56.24:122][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_Roof]
+[2020.08.03-04.56.24:122][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Roof" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_Roof_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.08.03-04.56.24:137][673]LogSavePackage: Save=11.70ms
+[2020.08.03-04.56.24:137][673]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_Roof_Auto7D409A7534A781D8FFEE437AAC2E73EAE.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_Roof_Auto7.uasset'
+[2020.08.03-04.56.24:139][673]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Material/M_Roof_Auto7.uasset
+[2020.08.03-04.56.24:139][673]LogFileHelpers: Auto-saving content packages took 0.079
+[2020.08.03-04.56.25:433][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box13)
+[2020.08.03-04.56.46:254][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.03-04.56.46:384][969]LogSavePackage: Save=106.17ms
+[2020.08.03-04.56.46:384][969]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main424C9DC94054FA1A72ABFE9AA148E936.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap'
+[2020.08.03-04.56.46:390][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap
+[2020.08.03-04.56.46:418][969]LogFileHelpers: Saving map 'Main' took 0.403
+[2020.08.03-11.25.47:567][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box15)
+[2020.08.03-11.25.49:807][781]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (wall_box15)
+[2020.08.03-11.26.10:528][993]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2020.08.03-11.27.34:122][928]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2020.08.03-11.27.42:381][421]MapCheck: New page: マップをチェック
+[2020.08.03-11.27.42:423][421]Cmd: MAP REBUILD ALLVISIBLE
+[2020.08.03-11.27.42:424][421]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.08.03-11.27.42:492][421]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2020.08.03-11.27.42:497][421]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_70, compiling. 
+[2020.08.03-11.27.42:502][421]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_brick, compiling. 
+[2020.08.03-11.27.42:507][421]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Roof, compiling. 
+[2020.08.03-11.27.43:021][421]TextureStreamingBuild: Display: Compiling optional shaders took 0.555 seconds.
+[2020.08.03-11.27.43:024][421]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2020.08.03-11.27.43:035][421]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2020.08.03-11.27.43:046][421]LightingResults: New page: ライティングのビルド - 2020/08/04 5:27:43
+[2020.08.03-11.27.43:060][421]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.08.03-11.27.43:063][421]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.08.03-11.27.43:063][421]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.08.03-11.27.43:064][421]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.08.03-11.27.43:064][421]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12756
+[2020.08.03-11.27.50:713][421]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.08.03-11.27.50:713][421]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.08.03-11.27.50:713][421]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.08.03-11.27.50:713][421]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.08.03-11.27.50:713][421]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.08.03-11.27.50:713][421]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.08.03-11.27.50:852][421]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.08.03-11.27.50:852][421]MapCheck: New page: Main - 2020/08/04 5:27:50
+[2020.08.03-11.27.50:853][421]MapCheck: Error: WorldSettings_1 マップはライティングの再ビルドが必要です 
+[2020.08.03-11.27.50:980][421]MapCheck: マップチェックが完了: 1 エラー、 0 警告、完了に 128.054ミリ秒かかりました。
+[2020.08.03-11.27.51:003][421]LogEditorBuildUtils: Build time 0:08
+[2020.08.03-11.27.51:033][421]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_brick, compiling. 
+[2020.08.03-11.27.51:038][421]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_brick, compiling. 
+[2020.08.03-11.27.51:165][423]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Roof, compiling. 
+[2020.08.03-11.27.51:171][423]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Roof, compiling. 
+[2020.08.03-11.27.53:870][545]Job is a success!
+[2020.08.03-11.27.53:965][546]LogMaterial: Warning: Material /Game/Material/M_Roof.M_Roof needed to have new flag set bUsedWithStaticLighting !
+[2020.08.03-11.27.53:966][546]LogMaterial: Warning: Material /Engine/Transient.M_Roof needed to have new flag set bUsedWithStaticLighting !
+[2020.08.03-11.27.53:968][546]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-11.27.53:982][546]LogMaterial: Missing cached shader map for material M_Roof, compiling. 
+[2020.08.03-11.27.54:379][546]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.08.03-11.27.54:380][546]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.08.03-11.27.54:380][546]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.08.03-11.27.54:380][546]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.08.03-11.27.54:380][546]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.08.03-11.27.54:380][546]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.08.03-11.27.54:380][546]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.08.03-11.27.54:381][546]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.08.03-11.27.54:526][546]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.08.03-11.27.54:526][546]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.08.03-11.27.54:526][546]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 32X32)
+[2020.08.03-11.27.54:526][546]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2020.08.03-11.27.54:553][546]Lightmass on GAME2001: 2.37 sec total, 135 ms importing, 2 ms setup, 618 ms photons, 1.59 sec processing, 0 ms extra exporting [86/86 mappings]. Threads: 17.0 sec total, 8.34 sec processing.
+[2020.08.03-11.27.54:562][546]LogStaticLightingSystem: Illumination: 11.4 sec (366 ms encoding lightmaps, 140 ms encoding shadowmaps)
+[2020.08.03-11.27.54:562][546]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.08.03-11.27.54:562][546]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.08.03-11.27.54:717][546]DumpUnbuiltLightIteractions
+[2020.08.03-11.27.54:717][546]Lights with unbuilt interactions: 0
+[2020.08.03-11.27.54:717][546]
+[2020.08.03-11.27.54:718][546]Primitives with unbuilt interactions: 0
+[2020.08.03-11.27.54:723][547]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.08.03-11.27.54:724][547]MapCheck: New page: Main - 2020/08/04 5:27:54
+[2020.08.03-11.27.54:871][547]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 147.425ミリ秒かかりました。
+[2020.08.03-11.27.56:488][641]MaterialEditorStats: Base pass shader: 78 instructions
+[2020.08.03-11.27.56:488][641]MaterialEditorStats: Vertex shader: 29 instructions
+[2020.08.03-11.27.56:488][641]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.03-11.28.04:234][102]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.08.03-11.28.04:234][102]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.08.03-11.28.04:245][102]LogEditorActor: Deleted 2 Actors (0.011 secs)
+[2020.08.03-11.28.27:416][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.03-11.28.27:531][478]LogSavePackage: Save=93.15ms
+[2020.08.03-11.28.27:531][478]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main2F339F6F4B7CA768E4418297D49F61B3.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap'
+[2020.08.03-11.28.27:537][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap
+[2020.08.03-11.28.27:566][478]LogFileHelpers: Saving map 'Main' took 0.303
+[2020.08.03-11.28.27:568][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main_BuiltData" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset" SILENT=true
+[2020.08.03-11.28.27:647][478]LogSavePackage: Save=67.87ms
+[2020.08.03-11.28.27:647][478]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Main_BuiltData0A36620D40C5A76031640DA667D54509.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset'
+[2020.08.03-11.28.27:653][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Map/Main_BuiltData.uasset
+[2020.08.03-11.28.27:656][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_brick" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Material/M_brick.uasset" SILENT=true
+[2020.08.03-11.28.27:670][478]LogSavePackage: Save=5.44ms
+[2020.08.03-11.28.27:670][478]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_brick907D12334F67ED53CC76539F4496A0D7.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Material/M_brick.uasset'
+[2020.08.03-11.28.27:675][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Material/M_brick.uasset
+[2020.08.03-11.28.27:679][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/plane" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Mesh/plane.uasset" SILENT=true
+[2020.08.03-11.28.27:692][478]LogSavePackage: Save=4.31ms
+[2020.08.03-11.28.27:692][478]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/plane0E93C0B548789A925B0A6A88F791E157.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Mesh/plane.uasset'
+[2020.08.03-11.28.27:697][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Mesh/plane.uasset
+[2020.08.03-11.28.27:722][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/wall_box" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Mesh/wall_box.uasset" SILENT=true
+[2020.08.03-11.28.27:738][478]LogSavePackage: Save=12.31ms
+[2020.08.03-11.28.27:738][478]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/wall_box744F783E44FF71E361593595B32162A2.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Mesh/wall_box.uasset'
+[2020.08.03-11.28.27:743][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Mesh/wall_box.uasset
+[2020.08.03-11.28.27:764][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Roof" FILE="../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Material/M_Roof.uasset" SILENT=true
+[2020.08.03-11.28.27:779][478]LogSavePackage: Save=11.46ms
+[2020.08.03-11.28.27:779][478]LogSavePackage: Moving '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/M_Roof5559BA004349EB1B0806B5BD63F42AB0.tmp' to '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Material/M_Roof.uasset'
+[2020.08.03-11.28.27:784][478]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Material/M_Roof.uasset
+[2020.08.03-11.28.51:911][891]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2020.08.03-11.28.52:069][892]Cmd: QUIT_EDITOR
+[2020.08.03-11.28.52:106][892]LogExit: Preparing to exit.
+[2020.08.03-11.28.52:625][892]LogDirectoryWatcher: A directory notification for 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Content/' was aborted.
+[2020.08.03-11.28.52:657][892]LogExit: Editor shut down
+[2020.08.03-11.28.52:669][892]LogExit: Transaction tracking system shut down
+[2020.08.03-11.28.52:776][892]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.08.03-11.28.52:776][892]LogDirectoryWatcher: A directory notification for '../../../../../../Users/s182242/Desktop/DangeonGame/DangeonGame/Content/' was aborted.
+[2020.08.03-11.28.52:776][892]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.08.03-11.28.52:776][892]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.08.03-11.28.52:776][892]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.08.03-11.28.52:807][892]LogExit: Object subsystem successfully closed.
+[2020.08.03-11.28.52:831][892]LogD3D11RHI: Shutdown
+[2020.08.03-11.28.52:831][892]LogD3D11RHI: CleanupD3DDevice
+[2020.08.03-11.28.52:834][892]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.08.03-11.28.52:857][892]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2020.08.03-11.28.52:857][892]LogModuleManager: Shutting down and abandoning module TextureEditor (536)
+[2020.08.03-11.28.52:857][892]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (534)
+[2020.08.03-11.28.52:857][892]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2020.08.03-11.28.52:857][892]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2020.08.03-11.28.52:857][892]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2020.08.03-11.28.52:857][892]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2020.08.03-11.28.52:857][892]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2020.08.03-11.28.52:858][892]LogDirectoryWatcher: A directory notification for 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Collections/' was aborted.
+[2020.08.03-11.28.52:858][892]LogDirectoryWatcher: A directory notification for 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Content/Developers/s182242/Collections/' was aborted.
+[2020.08.03-11.28.52:858][892]LogDirectoryWatcher: A directory notification for 'C:/Users/s182242/Desktop/DangeonGame/DangeonGame/Saved/Collections/' was aborted.
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2020.08.03-11.28.52:858][892]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module Media (477)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2020.08.03-11.28.52:859][892]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2020.08.03-11.28.53:654][892]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2020.08.03-11.28.53:654][892]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2020.08.03-11.28.53:654][892]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2020.08.03-11.28.53:655][892]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2020.08.03-11.28.53:656][892]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2020.08.03-11.28.53:657][892]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2020.08.03-11.28.53:712][892]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2020.08.03-11.28.53:713][892]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2020.08.03-11.28.53:714][892]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2020.08.03-11.28.53:915][892]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2020.08.03-11.28.53:916][892]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2020.08.03-11.28.53:917][892]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2020.08.03-11.28.53:917][892]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2020.08.03-11.28.53:917][892]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2020.08.03-11.28.53:917][892]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2020.08.03-11.28.53:917][892]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2020.08.03-11.28.53:917][892]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2020.08.03-11.28.53:917][892]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2020.08.03-11.28.54:017][892]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2020.08.03-11.28.54:118][892]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2020.08.03-11.28.54:118][892]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2020.08.03-11.28.54:118][892]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2020.08.03-11.28.54:118][892]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2020.08.03-11.28.54:118][892]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2020.08.03-11.28.54:118][892]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2020.08.03-11.28.54:119][892]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2020.08.03-11.28.54:119][892]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2020.08.03-11.28.54:119][892]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2020.08.03-11.28.54:119][892]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2020.08.03-11.28.54:120][892]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2020.08.03-11.28.54:120][892]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2020.08.03-11.28.54:120][892]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2020.08.03-11.28.54:120][892]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2020.08.03-11.28.54:120][892]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2020.08.03-11.28.54:120][892]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2020.08.03-11.28.54:120][892]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2020.08.03-11.28.54:121][892]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module Core (168)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2020.08.03-11.28.54:123][892]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2020.08.03-11.28.54:126][892]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2020.08.03-11.28.54:140][892]LogDerivedDataCache: Shutdown
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2020.08.03-11.28.54:140][892]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.08.03-11.28.54:141][892]LogOnline: Display: Unloading online subsystem: NULL
+[2020.08.03-11.28.54:141][892]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.08.03-11.28.54:142][892]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.08.03-11.28.54:142][892]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.03-11.28.54:142][892]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B719E2F43-4F2A-A31F-FD2F-D7871C148F2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=a85729d74eeaeb3d298edba6b6939552%7C4873c9ba91b948aeb324e10d19ee9502%7C80402594-cf78-4fff-bf7e-3274bf9299d4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.08.03-11.28.54:142][892]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.08.03-11.28.54:643][892]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.08.03-11.28.55:144][892]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.08.03-11.28.55:645][892]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.08.03-11.28.56:176][892]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.08.03-11.28.56:178][892]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.08.03-11.28.56:178][892]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.08.03-11.28.56:178][892]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.08.03-11.28.56:178][892]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.08.03-11.28.56:178][892]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.08.03-11.28.56:178][892]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.08.03-11.28.56:178][892]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.08.03-11.28.56:181][892]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.08.03-11.28.56:181][892]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.08.03-11.28.56:181][892]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.08.03-11.28.56:181][892]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.08.03-11.28.56:181][892]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.08.03-11.28.56:182][892]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.08.03-11.28.56:182][892]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.08.03-11.28.56:182][892]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.08.03-11.28.56:182][892]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.08.03-11.28.56:182][892]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.08.03-11.28.56:182][892]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.08.03-11.28.56:193][892]LogExit: Exiting.
+[2020.08.03-11.28.56:222][892]Log file closed, 08/03/20 20:28:56
