@@ -7242,3 +7242,537 @@ LogInit: Object subsystem initialized
 [2020.08.10-12.00.40:039][272]LogSavePackage: Save=13.18ms
 [2020.08.10-12.00.40:039][272]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/BP_AwardControllerD3EE114C4DCC79DE335060935D86F960.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_AwardController.uasset'
 [2020.08.10-12.00.40:041][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_AwardController.uasset
+[2020.08.10-12.13.16:406][240]BlueprintLog: New page: BP_Award をコンパイル
+[2020.08.10-12.13.27:332][520]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.13.27:354][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.13.27:354][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.13.27:354][520]PIE: New page: PIEセッション: Main (2020/08/11 6:13:27)
+[2020.08.10-12.13.27:355][520]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.13.27:359][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004183s)
+[2020.08.10-12.13.27:360][520]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.13.27:360][520]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2020.08.10-12.13.27:360][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005287s)
+[2020.08.10-12.13.27:390][520]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.13.27:401][520]LogInit: FAudioDevice initialized.
+[2020.08.10-12.13.27:434][520]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.13.27:437][520]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.13.27
+[2020.08.10-12.13.27:437][520]LogWorld: Bringing up level for play took: 0.002075
+[2020.08.10-12.13.27:438][520]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.13.27:438][520]PIE: /Game/Map/UEDPIE_0_Main 0.35のプレイ イン エディタの開始時間
+[2020.08.10-12.13.27:439][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.13.32:210][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.13.32:522][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.13.42:732][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box12)
+[2020.08.10-12.13.47:515][229]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.13.47:537][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.13.47:537][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.13.47:537][229]PIE: New page: PIEセッション: Main (2020/08/11 6:13:47)
+[2020.08.10-12.13.47:537][229]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.13.47:540][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003626s)
+[2020.08.10-12.13.47:541][229]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.13.47:541][229]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2020.08.10-12.13.47:541][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004474s)
+[2020.08.10-12.13.47:572][229]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.13.47:581][229]LogInit: FAudioDevice initialized.
+[2020.08.10-12.13.47:612][229]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.13.47:615][229]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.13.47
+[2020.08.10-12.13.47:615][229]LogWorld: Bringing up level for play took: 0.002123
+[2020.08.10-12.13.47:617][229]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.13.47:617][229]PIE: /Game/Map/UEDPIE_0_Main 0.528のプレイ イン エディタの開始時間
+[2020.08.10-12.13.47:617][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.13.50:685][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.13.51:583][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.14.02:594][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_box12)
+[2020.08.10-12.14.06:869][349]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.10-12.14.44:174][487]BlueprintLog: New page: BP_Award をコンパイル
+[2020.08.10-12.17.28:602][753]BlueprintLog: New page: BP_Award をコンパイル
+[2020.08.10-12.17.31:423][999]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.17.31:443][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.17.31:443][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.17.31:443][999]PIE: New page: PIEセッション: Main (2020/08/11 6:17:31)
+[2020.08.10-12.17.31:444][999]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.17.31:447][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004223s)
+[2020.08.10-12.17.31:447][999]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.17.31:448][999]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2020.08.10-12.17.31:448][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005118s)
+[2020.08.10-12.17.31:479][999]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.17.31:490][999]LogInit: FAudioDevice initialized.
+[2020.08.10-12.17.31:523][999]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.17.31:525][999]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.17.31
+[2020.08.10-12.17.31:526][999]LogWorld: Bringing up level for play took: 0.002135
+[2020.08.10-12.17.31:527][999]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.17.31:527][999]PIE: /Game/Map/UEDPIE_0_Main 0.439のプレイ イン エディタの開始時間
+[2020.08.10-12.17.31:527][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.17.34:740][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.17.35:213][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.18.44:195][724]BlueprintLog: New page: BP_AwardController をコンパイル
+[2020.08.10-12.18.49:182][287]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.18.49:203][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.18.49:203][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.18.49:203][287]PIE: New page: PIEセッション: Main (2020/08/11 6:18:49)
+[2020.08.10-12.18.49:203][287]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.18.49:207][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003965s)
+[2020.08.10-12.18.49:208][287]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.18.49:208][287]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2020.08.10-12.18.49:208][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004771s)
+[2020.08.10-12.18.49:238][287]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.18.49:247][287]LogInit: FAudioDevice initialized.
+[2020.08.10-12.18.49:276][287]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.18.49:279][287]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.18.49
+[2020.08.10-12.18.49:279][287]LogWorld: Bringing up level for play took: 0.002073
+[2020.08.10-12.18.49:281][287]PIE: /Game/Map/UEDPIE_0_Main 0.192のプレイ イン エディタの開始時間
+[2020.08.10-12.18.49:281][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.18.50:142][361]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.50:850][446]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.51:142][481]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.51:325][503]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.51:500][524]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.51:850][566]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.52:251][614]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.53:267][736]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.53:742][793]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.18.55:393][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.18.55:901][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.21.18:517][317]BlueprintLog: New page: BP_AwardController をコンパイル
+[2020.08.10-12.21.25:241][ 79]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.21.25:263][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.21.25:263][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.21.25:263][ 79]PIE: New page: PIEセッション: Main (2020/08/11 6:21:25)
+[2020.08.10-12.21.25:263][ 79]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.21.25:268][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004550s)
+[2020.08.10-12.21.25:268][ 79]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.21.25:269][ 79]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2020.08.10-12.21.25:269][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005576s)
+[2020.08.10-12.21.25:299][ 79]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.21.25:308][ 79]LogInit: FAudioDevice initialized.
+[2020.08.10-12.21.25:340][ 79]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.21.25:343][ 79]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.21.25
+[2020.08.10-12.21.25:343][ 79]LogWorld: Bringing up level for play took: 0.002089
+[2020.08.10-12.21.25:344][ 79]PIE: /Game/Map/UEDPIE_0_Main 0.256のプレイ イン エディタの開始時間
+[2020.08.10-12.21.25:345][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.21.25:623][ 80]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058466 > MaxSimulationTimeStep (0.050) for 'BP_Award_C_0', movement 'Walking'
+[2020.08.10-12.21.26:415][174]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.21.26:715][210]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.21.26:908][233]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.21.27:091][255]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.21.27:273][277]LogBlueprintUserMessages: [BP_AwardController_C_0] Hello
+[2020.08.10-12.21.28:549][430]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.21.29:060][430]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.24.22:084][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.08.10-12.24.22:197][691]LogSavePackage: Save=98.94ms
+[2020.08.10-12.24.22:197][691]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Main_Auto729D3AB6F4CC765C105A22C85C6FB8E36.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto7.umap'
+[2020.08.10-12.24.22:198][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/Map/Main_Auto7.umap
+[2020.08.10-12.24.22:202][691]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.138
+[2020.08.10-12.24.22:202][691]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.138
+[2020.08.10-12.24.22:204][691]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BP_Award] ([1] browsable assets)...
+[2020.08.10-12.24.22:224][691]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/BP_Award.BP_Award]
+[2020.08.10-12.24.22:224][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_Award]
+[2020.08.10-12.24.22:224][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Award" FILE="../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/BP/BP_Award_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.08.10-12.24.22:275][691]LogSavePackage: Save=40.71ms
+[2020.08.10-12.24.22:275][691]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/BP_Award_Auto78943EF2548833A1BFF7ED4893DCECEF9.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/BP/BP_Award_Auto7.uasset'
+[2020.08.10-12.24.22:276][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/BP/BP_Award_Auto7.uasset
+[2020.08.10-12.24.22:276][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_AwardController] ([1] browsable assets)...
+[2020.08.10-12.24.22:276][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_AwardController]
+[2020.08.10-12.24.22:299][691]LogSavePackage: Save=13.74ms
+[2020.08.10-12.24.22:299][691]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/BP_AwardController_Auto71D99A36849B699FB0371B4A95A08A911.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/BP/BP_AwardController_Auto7.uasset'
+[2020.08.10-12.24.22:300][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/BP/BP_AwardController_Auto7.uasset
+[2020.08.10-12.24.22:300][691]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.08.10-12.26.10:861][246]BlueprintLog: New page: BP_AwardController をコンパイル
+[2020.08.10-12.29.56:291][ 73]BlueprintLog: New page: BP_AwardController をコンパイル
+[2020.08.10-12.29.56:295][ 73]LogBlueprint: Error: [Compiler BP_AwardController] このブループリントは Pawn ではありません。 ' ターゲット ' に接続が必要です。
+[2020.08.10-12.29.56:424][ 73]LogBlueprint: Warning: [Compiler BP_AwardController] [1011.15] Compile of BP_AwardController failed. 1 Fatal Issue(s) 0 Warning(s) [in 133 ms] (/Game/BP/BP_AwardController.BP_AwardController)
+[2020.08.10-12.33.06:699][286]BlueprintLog: New page: BP_AwardController をコンパイル
+[2020.08.10-12.35.04:179][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Main' took 0.024
+[2020.08.10-12.35.04:181][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_AwardController] ([1] browsable assets)...
+[2020.08.10-12.35.04:182][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_AwardController]
+[2020.08.10-12.35.04:223][677]LogSavePackage: Save=21.41ms
+[2020.08.10-12.35.04:223][677]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/BP_AwardController_Auto885BAF8944863131F5463ED8FB2C878C0.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/BP/BP_AwardController_Auto8.uasset'
+[2020.08.10-12.35.04:224][677]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Autosaves/Game/BP/BP_AwardController_Auto8.uasset
+[2020.08.10-12.35.04:225][677]LogFileHelpers: Auto-saving content packages took 0.044
+[2020.08.10-12.35.34:869][365]BlueprintLog: New page: BP_AwardController をコンパイル
+[2020.08.10-12.35.38:167][736]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.35.38:187][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.35.38:187][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.35.38:187][736]PIE: New page: PIEセッション: Main (2020/08/11 6:35:38)
+[2020.08.10-12.35.38:188][736]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.35.38:192][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004088s)
+[2020.08.10-12.35.38:192][736]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.35.38:192][736]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2020.08.10-12.35.38:193][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004981s)
+[2020.08.10-12.35.38:223][736]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.35.38:234][736]LogInit: FAudioDevice initialized.
+[2020.08.10-12.35.38:269][736]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.35.38:272][736]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.35.38
+[2020.08.10-12.35.38:272][736]LogWorld: Bringing up level for play took: 0.002144
+[2020.08.10-12.35.38:274][736]PIE: /Game/Map/UEDPIE_0_Main -0.815のプレイ イン エディタの開始時間
+[2020.08.10-12.35.38:274][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.35.38:585][737]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086530 > MaxSimulationTimeStep (0.050) for 'BP_Award_C_0', movement 'Walking'
+[2020.08.10-12.35.42:578][216]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.35.43:172][216]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.35.49:327][882]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.35.49:348][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.35.49:348][882]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2020.08.10-12.35.49:350][882]LogPlayLevel: [PlayLevel] Compiling BP_AwardController before play...
+[2020.08.10-12.35.49:478][882]LogPlayLevel: PlayLevel: Blueprint regeneration took 129 ms (1 blueprints)
+[2020.08.10-12.35.49:478][882]PIE: New page: PIEセッション: Main (2020/08/11 6:35:49)
+[2020.08.10-12.35.49:478][882]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.35.49:482][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003775s)
+[2020.08.10-12.35.49:483][882]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.35.49:483][882]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2020.08.10-12.35.49:483][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.004607s)
+[2020.08.10-12.35.49:513][882]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.35.49:521][882]LogInit: FAudioDevice initialized.
+[2020.08.10-12.35.49:549][882]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.35.49:552][882]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.35.49
+[2020.08.10-12.35.49:552][882]LogWorld: Bringing up level for play took: 0.002083
+[2020.08.10-12.35.49:553][882]PIE: /Game/Map/UEDPIE_0_Main 0.465のプレイ イン エディタの開始時間
+[2020.08.10-12.35.49:554][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.35.49:861][883]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086530 > MaxSimulationTimeStep (0.050) for 'BP_Award_C_0', movement 'Walking'
+[2020.08.10-12.35.53:662][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.35.54:323][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.25:042][852]BlueprintLog: New page: BP_AwardController をコンパイル
+[2020.08.10-12.37.26:486][997]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.37.26:505][997]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.26:505][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.37.26:505][997]PIE: New page: PIEセッション: Main (2020/08/11 6:37:26)
+[2020.08.10-12.37.26:505][997]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.37.26:509][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003840s)
+[2020.08.10-12.37.26:510][997]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.37.26:511][997]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2020.08.10-12.37.26:511][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005436s)
+[2020.08.10-12.37.26:541][997]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.37.26:550][997]LogInit: FAudioDevice initialized.
+[2020.08.10-12.37.26:594][997]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.37.26:597][997]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.37.26
+[2020.08.10-12.37.26:597][997]LogWorld: Bringing up level for play took: 0.002485
+[2020.08.10-12.37.26:600][997]PIE: /Game/Map/UEDPIE_0_Main -0.489のプレイ イン エディタの開始時間
+[2020.08.10-12.37.26:600][997]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.36:514][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.37:193][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.51:007][806]LogTemp: Repeating last play command: 選択ビューポート
+[2020.08.10-12.37.51:028][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.51:028][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.10-12.37.51:028][806]PIE: New page: PIEセッション: Main (2020/08/11 6:37:51)
+[2020.08.10-12.37.51:028][806]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Main
+[2020.08.10-12.37.51:032][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004019s)
+[2020.08.10-12.37.51:033][806]LogAIModule: Creating AISystem for world Main
+[2020.08.10-12.37.51:033][806]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2020.08.10-12.37.51:033][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Main.Main to /Game/Map/UEDPIE_0_Main.Main (0.005085s)
+[2020.08.10-12.37.51:063][806]LogInit: XAudio2 using 'BenQ GL2460 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.08.10-12.37.51:072][806]LogInit: FAudioDevice initialized.
+[2020.08.10-12.37.51:115][806]LogLoad: Game class is 'BP_AwardGameMode_C'
+[2020.08.10-12.37.51:118][806]LogWorld: Bringing World /Game/Map/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2020.08.10-21.37.51
+[2020.08.10-12.37.51:118][806]LogWorld: Bringing up level for play took: 0.002113
+[2020.08.10-12.37.51:121][806]PIE: /Game/Map/UEDPIE_0_Main 0.032のプレイ イン エディタの開始時間
+[2020.08.10-12.37.51:121][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.58:215][653]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.37.58:787][653]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Map/Main.Main_C' with ClassGeneratedBy '/Game/Map/Main.Main:PersistentLevel.Main'
+[2020.08.10-12.38.14:675][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.10-12.38.14:789][814]LogSavePackage: Save=92.66ms
+[2020.08.10-12.38.14:790][814]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Main659DF5524787D3CA9E92CF8452392FFF.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap'
+[2020.08.10-12.38.14:794][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/Map/Main.umap
+[2020.08.10-12.38.14:825][814]LogFileHelpers: Saving map 'Main' took 0.207
+[2020.08.10-12.38.14:826][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Award" FILE="../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_Award.uasset" SILENT=true
+[2020.08.10-12.38.14:854][814]LogSavePackage: Save=18.31ms
+[2020.08.10-12.38.14:854][814]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/BP_Award12F0B9B74CBFC064B044E9B94E392D98.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_Award.uasset'
+[2020.08.10-12.38.14:859][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_Award.uasset
+[2020.08.10-12.38.14:861][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_AwardController" FILE="../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_AwardController.uasset" SILENT=true
+[2020.08.10-12.38.14:884][814]LogSavePackage: Save=16.89ms
+[2020.08.10-12.38.14:884][814]LogSavePackage: Moving '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Saved/BP_AwardController27B4F5C042D0EC51AA75FEAEF9DBB4B9.tmp' to '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_AwardController.uasset'
+[2020.08.10-12.38.14:886][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/BP/BP_AwardController.uasset
+[2020.08.10-12.38.17:972][124]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.10-12.38.18:052][124]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.10-12.38.19:225][124]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2020.08.10-12.38.19:515][125]Cmd: QUIT_EDITOR
+[2020.08.10-12.38.20:246][125]LogExit: Preparing to exit.
+[2020.08.10-12.38.21:434][125]LogDirectoryWatcher: A directory notification for 'C:/Users/owner/Desktop/DangeonGame/DangeonGame/Content/' was aborted.
+[2020.08.10-12.38.21:510][125]LogExit: Editor shut down
+[2020.08.10-12.38.21:536][125]LogExit: Transaction tracking system shut down
+[2020.08.10-12.38.21:764][125]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.08.10-12.38.21:764][125]LogDirectoryWatcher: A directory notification for '../../../../../../Users/owner/Desktop/DangeonGame/DangeonGame/Content/' was aborted.
+[2020.08.10-12.38.21:764][125]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2020.08.10-12.38.21:764][125]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.08.10-12.38.21:764][125]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.08.10-12.38.22:100][125]LogExit: Object subsystem successfully closed.
+[2020.08.10-12.38.22:140][125]LogD3D11RHI: Shutdown
+[2020.08.10-12.38.22:140][125]LogD3D11RHI: CleanupD3DDevice
+[2020.08.10-12.38.22:149][125]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.08.10-12.38.22:184][125]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (548)
+[2020.08.10-12.38.22:184][125]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (546)
+[2020.08.10-12.38.22:184][125]LogModuleManager: Shutting down and abandoning module BlueprintGraph (544)
+[2020.08.10-12.38.22:184][125]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (542)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (540)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module SkeletonEditor (538)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (536)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2020.08.10-12.38.22:186][125]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2020.08.10-12.38.22:187][125]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2020.08.10-12.38.22:191][125]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2020.08.10-12.38.22:191][125]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2020.08.10-12.38.22:191][125]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2020.08.10-12.38.22:192][125]LogDirectoryWatcher: A directory notification for 'C:/Users/owner/Desktop/DangeonGame/DangeonGame/Content/Collections/' was aborted.
+[2020.08.10-12.38.22:192][125]LogDirectoryWatcher: A directory notification for 'C:/Users/owner/Desktop/DangeonGame/DangeonGame/Content/Developers/owner/Collections/' was aborted.
+[2020.08.10-12.38.22:192][125]LogDirectoryWatcher: A directory notification for 'C:/Users/owner/Desktop/DangeonGame/DangeonGame/Saved/Collections/' was aborted.
+[2020.08.10-12.38.22:192][125]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2020.08.10-12.38.22:192][125]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2020.08.10-12.38.22:192][125]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2020.08.10-12.38.22:193][125]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2020.08.10-12.38.22:194][125]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2020.08.10-12.38.22:194][125]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2020.08.10-12.38.22:194][125]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2020.08.10-12.38.22:194][125]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module Media (477)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2020.08.10-12.38.22:195][125]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2020.08.10-12.38.22:196][125]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2020.08.10-12.38.22:196][125]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2020.08.10-12.38.22:197][125]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2020.08.10-12.38.22:197][125]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2020.08.10-12.38.22:198][125]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2020.08.10-12.38.22:199][125]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2020.08.10-12.38.22:199][125]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2020.08.10-12.38.22:199][125]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2020.08.10-12.38.22:199][125]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2020.08.10-12.38.22:800][125]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2020.08.10-12.38.22:800][125]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2020.08.10-12.38.22:800][125]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2020.08.10-12.38.22:800][125]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2020.08.10-12.38.22:803][125]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2020.08.10-12.38.22:803][125]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2020.08.10-12.38.22:803][125]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2020.08.10-12.38.22:803][125]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2020.08.10-12.38.22:803][125]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2020.08.10-12.38.22:804][125]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2020.08.10-12.38.22:805][125]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2020.08.10-12.38.22:805][125]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2020.08.10-12.38.22:805][125]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2020.08.10-12.38.22:805][125]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2020.08.10-12.38.22:806][125]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2020.08.10-12.38.22:806][125]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2020.08.10-12.38.22:806][125]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2020.08.10-12.38.22:806][125]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2020.08.10-12.38.22:807][125]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2020.08.10-12.38.22:807][125]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2020.08.10-12.38.22:807][125]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2020.08.10-12.38.22:808][125]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2020.08.10-12.38.22:808][125]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2020.08.10-12.38.22:809][125]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2020.08.10-12.38.22:864][125]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2020.08.10-12.38.22:865][125]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2020.08.10-12.38.22:867][125]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2020.08.10-12.38.22:868][125]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2020.08.10-12.38.22:869][125]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2020.08.10-12.38.22:869][125]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2020.08.10-12.38.22:870][125]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2020.08.10-12.38.22:870][125]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2020.08.10-12.38.22:870][125]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2020.08.10-12.38.22:870][125]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2020.08.10-12.38.22:893][125]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2020.08.10-12.38.22:895][125]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2020.08.10-12.38.22:895][125]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2020.08.10-12.38.22:896][125]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2020.08.10-12.38.22:897][125]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2020.08.10-12.38.22:897][125]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2020.08.10-12.38.22:897][125]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2020.08.10-12.38.22:898][125]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2020.08.10-12.38.22:898][125]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2020.08.10-12.38.22:898][125]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2020.08.10-12.38.22:898][125]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2020.08.10-12.38.22:900][125]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2020.08.10-12.38.23:026][125]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2020.08.10-12.38.23:027][125]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2020.08.10-12.38.23:029][125]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2020.08.10-12.38.23:029][125]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2020.08.10-12.38.23:029][125]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2020.08.10-12.38.23:030][125]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2020.08.10-12.38.23:030][125]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2020.08.10-12.38.23:030][125]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2020.08.10-12.38.23:030][125]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2020.08.10-12.38.23:031][125]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2020.08.10-12.38.23:032][125]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2020.08.10-12.38.23:032][125]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2020.08.10-12.38.23:032][125]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2020.08.10-12.38.23:032][125]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2020.08.10-12.38.23:033][125]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2020.08.10-12.38.23:034][125]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2020.08.10-12.38.23:034][125]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2020.08.10-12.38.23:035][125]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2020.08.10-12.38.23:035][125]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2020.08.10-12.38.23:035][125]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2020.08.10-12.38.23:035][125]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2020.08.10-12.38.23:035][125]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2020.08.10-12.38.23:036][125]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.08.10-12.38.23:038][125]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.08.10-12.38.23:038][125]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2020.08.10-12.38.23:039][125]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2020.08.10-12.38.23:039][125]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2020.08.10-12.38.23:039][125]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2020.08.10-12.38.23:039][125]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2020.08.10-12.38.23:039][125]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2020.08.10-12.38.23:039][125]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2020.08.10-12.38.23:040][125]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2020.08.10-12.38.23:040][125]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2020.08.10-12.38.23:040][125]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2020.08.10-12.38.23:141][125]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2020.08.10-12.38.23:242][125]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2020.08.10-12.38.23:242][125]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2020.08.10-12.38.23:242][125]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2020.08.10-12.38.23:242][125]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2020.08.10-12.38.23:243][125]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2020.08.10-12.38.23:243][125]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2020.08.10-12.38.23:247][125]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2020.08.10-12.38.23:247][125]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2020.08.10-12.38.23:247][125]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2020.08.10-12.38.23:248][125]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2020.08.10-12.38.23:251][125]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2020.08.10-12.38.23:251][125]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2020.08.10-12.38.23:251][125]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2020.08.10-12.38.23:252][125]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2020.08.10-12.38.23:252][125]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2020.08.10-12.38.23:252][125]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2020.08.10-12.38.23:252][125]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2020.08.10-12.38.23:253][125]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2020.08.10-12.38.23:253][125]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2020.08.10-12.38.23:253][125]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2020.08.10-12.38.23:255][125]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2020.08.10-12.38.23:255][125]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2020.08.10-12.38.23:255][125]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2020.08.10-12.38.23:255][125]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2020.08.10-12.38.23:256][125]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2020.08.10-12.38.23:258][125]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2020.08.10-12.38.23:258][125]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2020.08.10-12.38.23:258][125]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2020.08.10-12.38.23:260][125]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2020.08.10-12.38.23:260][125]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2020.08.10-12.38.23:265][125]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2020.08.10-12.38.23:265][125]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2020.08.10-12.38.23:265][125]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2020.08.10-12.38.23:265][125]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2020.08.10-12.38.23:265][125]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2020.08.10-12.38.23:266][125]LogModuleManager: Shutting down and abandoning module Core (168)
+[2020.08.10-12.38.23:266][125]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2020.08.10-12.38.23:266][125]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2020.08.10-12.38.23:266][125]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2020.08.10-12.38.23:266][125]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2020.08.10-12.38.23:267][125]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2020.08.10-12.38.23:267][125]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2020.08.10-12.38.23:267][125]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2020.08.10-12.38.23:267][125]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2020.08.10-12.38.23:268][125]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2020.08.10-12.38.23:268][125]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2020.08.10-12.38.23:272][125]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2020.08.10-12.38.23:310][125]LogDerivedDataCache: Shutdown
+[2020.08.10-12.38.23:310][125]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2020.08.10-12.38.23:310][125]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2020.08.10-12.38.23:311][125]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2020.08.10-12.38.23:311][125]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2020.08.10-12.38.23:311][125]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2020.08.10-12.38.23:312][125]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2020.08.10-12.38.23:312][125]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2020.08.10-12.38.23:312][125]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2020.08.10-12.38.23:312][125]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2020.08.10-12.38.23:312][125]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2020.08.10-12.38.23:313][125]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2020.08.10-12.38.23:313][125]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2020.08.10-12.38.23:313][125]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2020.08.10-12.38.23:313][125]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2020.08.10-12.38.23:313][125]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2020.08.10-12.38.23:313][125]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2020.08.10-12.38.23:314][125]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.08.10-12.38.23:315][125]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.08.10-12.38.23:315][125]LogOnline: Display: Unloading online subsystem: NULL
+[2020.08.10-12.38.23:316][125]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.08.10-12.38.23:317][125]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.08.10-12.38.23:317][125]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.08.10-12.38.23:317][125]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BACBB220D-4F81-1177-1C82-F590C0CE4B49%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=f214f2854c9e722da77bc4af34c01bc4%7C4873c9ba91b948aeb324e10d19ee9502%7Cbf00e440-dace-4fde-9e3c-fdadc522de6e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.08.10-12.38.23:323][125]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.08.10-12.38.23:326][125]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.08.10-12.38.23:326][125]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.08.10-12.38.23:327][125]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.08.10-12.38.23:328][125]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.08.10-12.38.23:328][125]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.08.10-12.38.23:328][125]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.08.10-12.38.23:328][125]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.08.10-12.38.23:348][125]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.08.10-12.38.23:348][125]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.08.10-12.38.23:348][125]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.08.10-12.38.23:348][125]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.08.10-12.38.23:348][125]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.08.10-12.38.23:348][125]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.08.10-12.38.23:348][125]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.08.10-12.38.23:349][125]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.08.10-12.38.23:349][125]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.08.10-12.38.23:349][125]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.08.10-12.38.23:349][125]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.08.10-12.38.23:357][125]LogExit: Exiting.
+[2020.08.10-12.38.23:388][125]Log file closed, 08/10/20 21:38:23
